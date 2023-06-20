@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @gautam247gk
-- 👀 I’m interested in React, NodeJS, Html, CSS etc
-- 🌱 I’m currently working for Biboxlabs
-- 💞️ I’m looking to collaborate on various react projects
+# 👋 Hi, I’m Gautam Krishnan
+## Fullstack Developer/Cloud Developer
+- 👀 I’m currently learning typescript, Angular and Machine Learning
+- 🌱 I’m doing my Masters in Advanced Computer Science at Northumbria University, Newcastle Upon Tyne, United Kingdom
+- 💞️ I’m looking to collaborate on various projects
 
 
 <!---
