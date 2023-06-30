@@ -54,7 +54,7 @@ technical_background:
   
 currently_learning: ["Docker, Kubernetes and Angular"]
 2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding",  "Comedy"]
+hobbies: ["Gaming", "Cinema", "Music",  "Comedy"]
 ```
   
 ---  
