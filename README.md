@@ -26,7 +26,7 @@
 ```yaml
 name: Gautam Krishnan
 located_in: Newcastle Upon Tyne, United Kingdom
-current_occupation: Masters Student at Northumbria University
+current_occupation: IT Software Developer Northumbria University
 education:
   [
     "Self-Taught Developer and Designer",
@@ -34,6 +34,7 @@ education:
     "Bachelor's in Computer Science and Engineering",
   ]
 
+tech_stack: [MERN, .NET]
 
 fields_of_interests:
   [
@@ -46,6 +47,7 @@ fields_of_interests:
   ]
 technical_background:
   [
+    "IT Software Developer",
     "Web Application Development Team Lead",
     "Web Application Developer",
     "Intern - Gamified Sales Platform Development",
